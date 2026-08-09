@@ -17,8 +17,6 @@
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ziuskumar.ziuskumar)](https://github.com/ziuskumar)
 
-![Open to Work](https://img.shields.io/badge/Open%20to-Software%20Engineering-success?style=for-the-badge)
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
