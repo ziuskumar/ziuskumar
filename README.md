@@ -114,7 +114,11 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ziuskumar&theme=tokyonight&column=7&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ziuskumar&theme=tokyonight&column=4&margin-w=15&no-frame=true&row=2"/>
+
+</div>
 
 </div>
 
