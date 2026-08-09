@@ -212,3 +212,9 @@
 *"Building software that creates meaningful impact."*
 
 </div>
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/ziuskumar/ziuskumar/output/github-contribution-grid-snake-dark.svg)
+
+</div>
