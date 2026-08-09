@@ -16,3 +16,27 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ziuskumar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+```json
+{
+  "name": "Zius Kumar",
+  "role": "Full Stack Engineer",
+  "location": "India",
+  "education": "B.Tech Computer Science @ LPU (2027)",
+  "internship": "Full Stack Web Development Intern @ Infosys Springboard",
+  "building": ["InvestIQ", "Civix", "CareTrack", "AI Apps"],
+  "stack": ["Node.js", "React.js", "TypeScript", "PostgreSQL", "AWS"],
+  "certifications": ["Oracle Gen-AI Professional", "Oracle MySQL HeatWave", "IBM SQL"],
+  "open_to": ["SWE Roles", "Full Stack", "Backend", "AI Engineer"]
+}
+```
+
+- 🚀 Built and deployed **InvestIQ** — AI investment research agent using Gemini 2.5 + LangChain
+- 🏗️ Built **Civix** — scalable civic platform with RBAC auth, deployed on Netlify
+- 🔐 Resolved 9 production defects in **BugForge** assessment including XSS and mass assignment
+- ☁️ **AWS SAA** scored 690 | **Oracle Gen-AI** Certified
+- 💡 Always building something new
