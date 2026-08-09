@@ -145,3 +145,70 @@
 ![Oracle](https://img.shields.io/badge/Oracle_MySQL_HeatWave-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM_SQL_for_Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+```json
+{
+  "Learning": [
+    "System Design",
+    "LangGraph",
+    "FastAPI",
+    "Kubernetes"
+  ],
+  "Building": [
+    "AI-Powered Web Apps",
+    "Full Stack Products",
+    "Open Source Projects"
+  ],
+  "Exploring": [
+    "AI Agents",
+    "MLOps",
+    "Distributed Systems"
+  ],
+  "Open_To": [
+    "Software Engineering Roles",
+    "Full Stack Developer",
+    "Backend Engineer",
+    "AI Engineer"
+  ]
+}
+```
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zius-kumar/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziuskumar297@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziuskumar)
+[![InvestIQ](https://img.shields.io/badge/InvestIQ-Live-brightgreen?style=for-the-badge)](https://investiq-dashboard-eight.vercel.app/dashboard)
+[![Civix](https://img.shields.io/badge/Civix-Live-blue?style=for-the-badge)](https://civixi.netlify.app/)
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ziuskumar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ziuskumar)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ziuskumar)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+*"Building software that creates meaningful impact."*
+
+</div>
