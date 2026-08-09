@@ -94,3 +94,26 @@
 | **Luxe Haven** | Full stack booking platform with location-based filtering and role-based auth | Node.js, MongoDB, Passport.js, Express.js | [Live](https://luxe-haven-3.onrender.com/listings) · [GitHub](https://github.com/ziuskumar/Luxe_Haven..) |
 | **CareTrack** | Patient care navigation API with Jest testing and observability logging | Node.js, TypeScript, PostgreSQL, Jest, Docker | [GitHub](https://github.com/ziuskumar) |
 | **FleetAPI** | Fleet management backend with JWT auth and Docker deployment | Django, PostgreSQL, Python, Docker | [GitHub](https://github.com/ziuskumar) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziuskumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziuskumar&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ziuskumar&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ziuskumar&theme=tokyonight&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
