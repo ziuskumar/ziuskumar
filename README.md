@@ -37,7 +37,7 @@
   "certifications": ["Oracle Gen-AI Professional", "Oracle MySQL HeatWave", "IBM SQL"],
   "open_to": ["SWE Roles", "Full Stack", "Backend", "AI Engineer"]
 }
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 - 🚀 Built and deployed **InvestIQ** — AI investment research agent using Gemini 2.5 + LangChain
 - 🏗️ Built **Civix** — scalable civic platform with RBAC auth, deployed on Netlify
@@ -45,7 +45,7 @@
 - ☁️ **AWS SAA** scored 690 | **Oracle Gen-AI** Certified
 - 💡 Always building something new
 
-- ---
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🛠️ Tech Stack
 
