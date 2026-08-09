@@ -117,3 +117,31 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ziuskumar&theme=tokyonight&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| Full Stack Web Development Intern | Infosys Springboard | Feb 2026 – Apr 2026 |
+| Data Science Intern | Edunet Foundation (AICTE-IBM SkillsBuild) | Dec 2025 – Jan 2026 |
+| Cybersecurity with GenAI Intern | Edunet Foundation (VOIS for Tech) | Dec 2025 – Jan 2026 |
+
+---
+
+## 🏆 Achievements
+
+- 🔐 **BugForge Assessment** — Resolved 9 production defects including XSS, mass assignment vulnerability, and infinite render loop across Next.js/Express/MongoDB stack
+- 🤖 **InsideIIM × Altuni AI Labs** — Built and deployed AI Investment Research Agent accepted as assignment submission
+- ☁️ **AWS SAA** — Scored 690 on AWS Solutions Architect Associate exam
+- 🏅 **Top 10** — Inter University Hackathon Code-A-Haunt 2.0, Team Code Blooded
+- 🛒 **Walmart Hackathon** — Shipped full stack solution within 24-hour sprint
+
+---
+
+## 📜 Certifications
+
+![Oracle](https://img.shields.io/badge/Oracle_Gen--AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_MySQL_HeatWave-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_SQL_for_Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
