@@ -15,6 +15,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ziuskumar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ziuskumar.ziuskumar)](https://github.com/ziuskumar)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
@@ -37,13 +39,24 @@
   "certifications": ["Oracle Gen-AI Professional", "Oracle MySQL HeatWave", "IBM SQL"],
   "open_to": ["SWE Roles", "Full Stack", "Backend", "AI Engineer"]
 }
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+```
 
 - 🚀 Built and deployed **InvestIQ** — AI investment research agent using Gemini 2.5 + LangChain
 - 🏗️ Built **Civix** — scalable civic platform with RBAC auth, deployed on Netlify
 - 🔐 Resolved 9 production defects in **BugForge** assessment including XSS and mass assignment
 - ☁️ **AWS SAA** scored 690 | **Oracle Gen-AI** Certified
 - 💡 Always building something new
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+## ⚡ Fun Facts
+
+- 🔭 Currently building AI-powered web applications
+- 🌱 Learning System Design and LangGraph
+- 💬 Ask me about Node.js, React.js, or AI integrations
+- 📫 Reach me at ziuskumar297@gmail.com
+- ⚡ Solved 250+ DSA problems on LeetCode and GFG
+- 🏆 Top 10 at Code-A-Haunt 2.0 Inter University Hackathon
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
@@ -87,7 +100,20 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+## 💡 Skills & Proficiency
+
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-90%25-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-88%25-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85%25-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-75%25-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-78%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🚀 Featured Projects
 
@@ -99,7 +125,7 @@
 | **CareTrack** | Patient care navigation API with Jest testing and observability logging | Node.js, TypeScript, PostgreSQL, Jest, Docker | [GitHub](https://github.com/ziuskumar) |
 | **FleetAPI** | Fleet management backend with JWT auth and Docker deployment | Django, PostgreSQL, Python, Docker | [GitHub](https://github.com/ziuskumar) |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 📊 GitHub Analytics
 
@@ -118,16 +144,17 @@
 
 <div align="center">
 
+![Snake](https://raw.githubusercontent.com/ziuskumar/ziuskumar/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 <div align="center">
 
 [![Zius's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ziuskumar&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-</div>
-
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 💼 Experience
 
@@ -137,7 +164,7 @@
 | Data Science Intern | Edunet Foundation (AICTE-IBM SkillsBuild) | Dec 2025 – Jan 2026 |
 | Cybersecurity with GenAI Intern | Edunet Foundation (VOIS for Tech) | Dec 2025 – Jan 2026 |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🏆 Achievements
 
@@ -147,7 +174,7 @@
 - 🏅 **Top 10** — Inter University Hackathon Code-A-Haunt 2.0, Team Code Blooded
 - 🛒 **Walmart Hackathon** — Shipped full stack solution within 24-hour sprint
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 📜 Certifications
 
@@ -156,38 +183,20 @@
 ![IBM](https://img.shields.io/badge/IBM_SQL_for_Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🎯 Current Focus
 
 ```json
 {
-  "Learning": [
-    "System Design",
-    "LangGraph",
-    "FastAPI",
-    "Kubernetes"
-  ],
-  "Building": [
-    "AI-Powered Web Apps",
-    "Full Stack Products",
-    "Open Source Projects"
-  ],
-  "Exploring": [
-    "AI Agents",
-    "MLOps",
-    "Distributed Systems"
-  ],
-  "Open_To": [
-    "Software Engineering Roles",
-    "Full Stack Developer",
-    "Backend Engineer",
-    "AI Engineer"
-  ]
+  "Learning": ["System Design", "LangGraph", "FastAPI", "Kubernetes"],
+  "Building": ["AI-Powered Web Apps", "Full Stack Products", "Open Source Projects"],
+  "Exploring": ["AI Agents", "MLOps", "Distributed Systems"],
+  "Open_To": ["Software Engineering", "Full Stack Developer", "Backend Engineer", "AI Engineer"]
 }
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🤝 Connect
 
@@ -201,7 +210,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 💻 Coding Profiles
 
@@ -213,7 +222,13 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 <div align="center">
 
@@ -222,16 +237,3 @@
 *"Building software that creates meaningful impact."*
 
 </div>
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/ziuskumar/ziuskumar/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
