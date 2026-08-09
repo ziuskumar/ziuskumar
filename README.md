@@ -235,8 +235,3 @@
 
 </div>
 
-<div align="center">
-
-[![Spotify](https://novatorem-ziuskumar.vercel.app/api/spotify)](https://open.spotify.com)
-
-</div>
