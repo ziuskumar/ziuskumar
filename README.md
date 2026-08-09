@@ -15,6 +15,8 @@
 
 <img src="https://img.shields.io/badge/Open%20to-SWE%20%7C%20Full%20Stack%20%7C%20AI%20Engineer-111827?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=6D28D9"/>
 
+<br></br>
+
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zius-kumar/)
