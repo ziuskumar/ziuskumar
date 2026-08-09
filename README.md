@@ -224,3 +224,9 @@
 ![Snake](https://raw.githubusercontent.com/ziuskumar/ziuskumar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
