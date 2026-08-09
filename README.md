@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ziuskumar&theme=tokyonight&column=4&margin-w=15&no-frame=true&row=2"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ziuskumar&theme=darkhub&column=4&margin-w=10&no-frame=true"/>
 
 </div>
 
