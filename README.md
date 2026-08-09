@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ziuskumar&theme=darkhub&column=4&margin-w=10&no-frame=true"/>
+[![Zius's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ziuskumar&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
