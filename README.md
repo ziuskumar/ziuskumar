@@ -8,9 +8,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+App+Builder;Node.js+%7C+React.js+%7C+TypeScript;Open+to+SWE+%26+AI+Engineer+Roles)](https://git.io/typing-svg)
 
-<p align="center">
-  <b>📍 India</b> • <b>🎓 LPU 2027</b> • <b>💼 Open to SWE / Full Stack / AI Engineer roles</b>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/India-111827?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=7C3AED"/>
+<img src="https://img.shields.io/badge/LPU%202027-111827?style=for-the-badge&logo=academia&logoColor=white&labelColor=8B5CF6"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to-SWE%20%7C%20Full%20Stack%20%7C%20AI%20Engineer-111827?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=6D28D9"/>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zius-kumar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziuskumar)
