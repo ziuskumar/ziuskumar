@@ -13,8 +13,6 @@
 <img src="https://img.shields.io/badge/India-111827?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=7C3AED"/>
 <img src="https://img.shields.io/badge/LPU%202027-111827?style=for-the-badge&logo=academia&logoColor=white&labelColor=8B5CF6"/>
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Open%20to-SWE%20%7C%20Full%20Stack%20%7C%20AI%20Engineer-111827?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=6D28D9"/>
 
 </div>
