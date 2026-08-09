@@ -82,3 +82,15 @@
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **InvestIQ** | AI investment research agent generating invest/pass decisions with confidence scores | Next.js, Gemini 2.5, LangChain, Finnhub API | [Live](https://investiq-dashboard-eight.vercel.app/dashboard) · [GitHub](https://github.com/ziuskumar/INVESTIQ) |
+| **Civix** | Scalable civic engagement platform with RBAC authentication for 3+ user roles | React.js, Node.js, MongoDB, Express.js | [Live](https://civixi.netlify.app/) · [GitHub](https://github.com/ziuskumar/CIVIX---FINAL) |
+| **Luxe Haven** | Full stack booking platform with location-based filtering and role-based auth | Node.js, MongoDB, Passport.js, Express.js | [Live](https://luxe-haven-3.onrender.com/listings) · [GitHub](https://github.com/ziuskumar/Luxe_Haven..) |
+| **CareTrack** | Patient care navigation API with Jest testing and observability logging | Node.js, TypeScript, PostgreSQL, Jest, Docker | [GitHub](https://github.com/ziuskumar) |
+| **FleetAPI** | Fleet management backend with JWT auth and Docker deployment | Django, PostgreSQL, Python, Docker | [GitHub](https://github.com/ziuskumar) |
