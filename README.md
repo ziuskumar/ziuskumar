@@ -122,6 +122,11 @@
 
 </div>
 
+<div align="center">
+
+![Zius's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ziuskumar&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+</div>
 ---
 
 ## 💼 Experience
