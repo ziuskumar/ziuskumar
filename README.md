@@ -234,3 +234,9 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+<div align="center">
+
+[![Spotify](https://novatorem-ziuskumar.vercel.app/api/spotify)](https://open.spotify.com)
+
+</div>
