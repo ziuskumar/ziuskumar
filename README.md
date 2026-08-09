@@ -43,6 +43,17 @@
 
 - ---
 
+## 💡 Skills & Proficiency
+
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-90%25-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-88%25-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85%25-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-75%25-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-78%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ## 🛠️ Tech Stack
 
 ### Languages
