@@ -128,8 +128,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://readme-stats-one-xi.vercel.app/api?username=ziuskumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://readme-stats-one-xi.vercel.app/api/top-langs/?username=ziuskumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ziuskumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ziuskumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
