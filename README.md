@@ -141,12 +141,6 @@
 
 <div align="center">
 
-[![Zius's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ziuskumar&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
 ![Snake](https://raw.githubusercontent.com/ziuskumar/ziuskumar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
